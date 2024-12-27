@@ -1,0 +1,27 @@
+/*
+Theme Name: My Theme15
+Description: Это моя первая тема.
+Version: 1.0
+Author: Вадимир Романов
+*/
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: #f8f8f8;
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background: #f8f8f8;
+    text-align: center;
+    padding: 10px;
+}
+
+.post-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}

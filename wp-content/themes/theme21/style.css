@@ -1,0 +1,28 @@
+/*
+Theme Name: My Theme21
+Description: Это моя первая тема.
+Version: 1.0
+Author: Вадимир Романов
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #f8f8f8;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background: #f8f8f8;
+    text-align: center;
+    padding: 10px;
+}

@@ -1,0 +1,42 @@
+/*
+Theme Name: My Theme16
+Description: Это моя первая тема.
+Version: 1.0
+Author: Вадимир Романов
+*/
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #f8f8f8;
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background: #f8f8f8;
+    text-align: center;
+    padding: 10px;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.gallery-item {
+    display: inline-block;
+    margin: 10px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    text-align: center;
+}
+
+.gallery-item img {
+    max-width: 200px;
+    height: auto;
+}

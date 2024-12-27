@@ -1,0 +1,41 @@
+/*
+Theme Name: My Theme17
+Description: Это моя первая тема.
+Version: 1.0
+Author: Вадимир Романов
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #f8f8f8;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    margin: 20px 0;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #333;
+}
+
+section {
+    display: none; /* Скрываем все секции по умолчанию */
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ccc;
+}
+
+footer {
+    background: #f8f8f8;
+    text-align: center;
+    padding: 10px;
+}
